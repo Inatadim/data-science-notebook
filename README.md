@@ -37,7 +37,7 @@ Key Insights (to be updated)
 ________________________________________
 How to Run
 1.	Clone the repository:
-git clone https://github.com/inatadim /data-science-notebook.git
+git clone https://github.com/inatadim/data-science-notebook.git
 2.	Navigate to the folder:
 cd data-science-notebook
 3.	Start Jupyter:
