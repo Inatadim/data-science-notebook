@@ -10,10 +10,9 @@ This project investigates the relationship between national happiness, smoking p
 3.	Did the COVID-19 pandemic (2020) alter the relationship between economic conditions and happiness?
 
 ### Data Sources
-Dataset	Source	Coverage
 World Happiness Report	worldhappiness.report	2013–2023, country-level happiness index
 GDP per Capita	World Bank — World Development Indicators	1960–2024, USD current prices
-Smoking Prevalence	Our World in Data / WHO	Age-standardized, adults 15+, every 5 years
+Smoking Prevalence	Our World in Data / WHO	Age-standardized, adults 15+
 
 Note on year coverage: The smoking dataset provides data every five years (2000, 2005, 2010, 2015, 2020, 2022). After merging all three sources, the overlapping years are 2020 and 2022, yielding 124 countries per year (248 observations total).
 
